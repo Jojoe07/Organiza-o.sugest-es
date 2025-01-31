@@ -33,7 +33,7 @@ tab1.write("""
 
  **Para desenvolvedores:**
 - Criar um fluxo para gerar o boleto por esse canal
--Inserir no fluxo de caixa as entradas
+- Inserir no fluxo de caixa as entradas
 
  """) #markdown
 
