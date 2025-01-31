@@ -56,7 +56,7 @@ tab2.write("""
  
  **Para desenvolvedores:**
 - Criar uma jornada dentro do app para o pagamento por aproximação atrelado a chave Pix.
-- Inserir no fluxo de caixa as entradas
+- Inserir no fluxo  de caixa as entradas
  """)
 
 st.caption("Desenvolvido por Joenice Almeida")
