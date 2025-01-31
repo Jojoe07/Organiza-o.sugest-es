@@ -4,7 +4,7 @@ import streamlit as st
 ("""
  # Opções de cobrança
  
- Com o avanço da tecnologia é interessante que nosso clientes tenham outras formas de cobrança. Pensando nisso foram criadas algumas opções.
+ Com o avanço da tecnologia é interessante que nossos clientes tenham outras formas de cobrança. Pensando nisso foram criadas algumas opções.
  
  **Ganhos da Emps:**
 - Aumenta as movimentações em conta 
