@@ -40,6 +40,9 @@ Com os melhores cumprimentos,
 [Seu Nome] [Seu Cargo] [Nome da Empresa] [Telefone] [E-mail]
 """) #markdown
 
+st.balloons()
+
+
 #roubo/sequestro ou perda
 tab2.write("""
 **Assunto: Lamentamos profundamente o ocorrido**
