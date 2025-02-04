@@ -37,6 +37,8 @@ tab1.write("""
 
  """) #markdown
 
+st.link_button("Clique para mais detalhes" , "https://faq.whatsapp.com/1690350561340616")
+
 
 
 
