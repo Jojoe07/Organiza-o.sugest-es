@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🏆" ,
 )
 
-st.title("Sugestões/ jornada")
+st.title("Sugestões / jornada")
 st.sidebar.success("Escolha uma página")
 
 st.image("pages/Imagem inicio da operação.jpg")
