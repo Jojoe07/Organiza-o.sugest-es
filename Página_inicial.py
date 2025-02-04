@@ -10,6 +10,9 @@ st.set_page_config(
 st.title("Sugestões/ jornada")
 st.sidebar.success("Escolha uma página")
 
+st.image("pages/Imagem inauguração.jpg")
+
+
 ("""
 
 
