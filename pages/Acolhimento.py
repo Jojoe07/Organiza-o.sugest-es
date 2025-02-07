@@ -15,7 +15,7 @@ Será enviado de forma automática no dia do aniversário do representante legal
 
 **Acolhimento** 
 
-O Emprs Force recepciona a ligação ou chat e ao ser informado sobre roubo, perda ou sequestro irá enviar os dados para os Empers Specs realizar o envio do e-mail prestando nossa solidariedade nesse momento difícil
+O Empers Force recepciona a ligação ou chat e ao ser informado sobre roubo, perda ou sequestro irá enviar os dados para os Empers Specs realizar o envio do e-mail prestando nossa solidariedade nesse momento difícil
  
  """)
 
