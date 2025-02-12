@@ -9,8 +9,7 @@ No processo de aceite da funcionalidade o cliente cadastra uma rede wi-fi que el
  
  """)
 
-tab1 , tab2 = st.tabs(["Como funciona", "Jornada"])
-tab1.write("""
+("""
            
  Vale ressaltar os ganhos com a implantação do Guardião. 
          
@@ -37,8 +36,8 @@ tab1.write("""
  
  """) #markdown
 
-tab2.embed_code = """ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="200" height="450" src="https://embed.figma.com/proto/GdWmLrOSmBw64bXGVbczPD/Faq-Emps?node-id=142-25&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=142%3A25&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>"""
-tab2.components.v1.html(embed_code,height=500)
+embed_code = """ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="200" height="450" src="https://embed.figma.com/proto/GdWmLrOSmBw64bXGVbczPD/Faq-Emps?node-id=142-25&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=142%3A25&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>"""
+st.components.v1.html(embed_code,height=500)
 
 st.caption("Desenvolvido por Joenice Almeida")
 st.caption("Em 13/01/2025")
