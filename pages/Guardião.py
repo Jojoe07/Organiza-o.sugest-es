@@ -8,8 +8,9 @@ import streamlit as st
 No processo de aceite da funcionalidade o cliente cadastra uma rede wi-fi que ele considera segura, dessa forma ao sair desse ambiente suas transações previamente estabelecidas serão reduzidas de forma automática
  
  """)
+tab1 , tab2 = st.tabs(["Como funciona", "Jornada"])
 
-("""
+tab1.write("""
            
  Vale ressaltar os ganhos com a implantação do Guardião. 
          
@@ -35,6 +36,7 @@ No processo de aceite da funcionalidade o cliente cadastra uma rede wi-fi que el
 - Será necessário criar uma forma de visualização na central e no app quando o guardião estiver ativado
  
  """) #markdown
+tab2.video("Guardião_att.mp4")
 
 embed_code = """ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="450" src="https://embed.figma.com/proto/GdWmLrOSmBw64bXGVbczPD/Faq-Emps?node-id=142-25&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=142%3A25&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>"""
 st.components.v1.html(embed_code,height=400)
